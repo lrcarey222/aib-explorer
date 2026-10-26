@@ -1,0 +1,2 @@
+import{r as i}from"./index-CWi7hLaO.js";const o="Allied Industrial Base Explorer | NEIS Center",a={sector:"Sectors",country:"Countries",aib:"Allied Industrial Base",about:"About","Sector Insights":"Sectors","Country Insights":"Countries","Sectoral Compacts":"Allied Industrial Base",strategic:"","Strategic Insights":""};function c(s,t){const e=t?a[t]??t:void 0,r=[s,e!==s?e:void 0].filter(n=>!!n);return r.length?`${r.join(" | ")} | ${o}`:o}function u(s,t){i.useEffect(()=>{document.title=c(s,t)},[s,t])}export{c as p,u};
+//# sourceMappingURL=title-CHoVCjEF.js.map

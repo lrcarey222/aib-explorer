@@ -1,0 +1,2 @@
+function a(o,n){const t=URL.createObjectURL(o),e=document.createElement("a");e.href=t,e.download=n,e.rel="noopener",document.body.appendChild(e),e.click(),e.remove(),setTimeout(()=>URL.revokeObjectURL(t),1e3)}function c(o,n,t="text/csv;charset=utf-8"){a(new Blob([o],{type:t}),n)}function l(o){return o.toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"")||"table"}export{c as a,a as d,l as f};
+//# sourceMappingURL=download-kWJTd1se.js.map

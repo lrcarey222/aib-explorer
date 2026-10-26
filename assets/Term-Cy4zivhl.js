@@ -1,0 +1,2 @@
+import{j as r}from"./index-CWi7hLaO.js";import{u as m,I as c}from"./InfoTip-B8GyBm01.js";function f({id:e,plain:o,children:a,className:n}){const{byId:p}=m(),t=p.get(e),s=a??t?.term??e;return o||!t?r.jsx("span",{className:n,children:s}):r.jsxs("span",{className:`whitespace-nowrap ${n??""}`,children:[r.jsx("span",{className:"whitespace-normal",children:s})," ",r.jsx(c,{id:e,term:typeof s=="string"?s:t.term})]})}export{f as T};
+//# sourceMappingURL=Term-Cy4zivhl.js.map
