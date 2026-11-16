@@ -7,3 +7,6 @@ This repository holds build output only. The source, the data pipeline and the m
 [Opportunity_Security_Indices](https://github.com/lrcarey222/Opportunity_Security_Indices) (`dashboard/`).
 The site is a beta for testing: every page carries a `noindex` tag, and `404.html` is the app page so
 that links to any view (for example `/aib-explorer/countries/JPN`) open it.
+
+`memos.html` (https://lrcarey222.github.io/aib-explorer/memos.html) lists every published memo, the country
+strategy briefs, partnership memos and compact memos, with their PDF, Word and Markdown files.
