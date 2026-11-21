@@ -1,0 +1,2 @@
+import{e as s,K as o}from"./index-DFNdiuPq.js";import{A as n}from"./bar-B3TbtWZo.js";const c={ariaLabel:"cell"};class p extends n{constructor(a,{x:e,y:l,...t}={}){super(a,{x:{value:e,scale:"x",type:"band",optional:!0},y:{value:l,scale:"y",type:"band",optional:!0}},t,c)}_transform(a,e){a.call(s,e,{},0,0)}}function f(r,{x:a,y:e,...l}={}){return[a,e]=o(a,e),new p(r,{...l,x:a,y:e})}export{f as c};
+//# sourceMappingURL=cell-CuywBbde.js.map
